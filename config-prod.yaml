@@ -1,0 +1,2 @@
+config:
+  info: "this is a info come from config-prod.yaml"
